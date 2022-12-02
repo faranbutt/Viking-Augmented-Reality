@@ -1,5 +1,5 @@
 # Viking Augmented Reality App
 ## Marker
-![Picture1](https://user-images.githubusercontent.com/66089079/205269922-bca357ec-2d2b-457f-97e4-155039aeb401.png)
+![dest](https://user-images.githubusercontent.com/66089079/205272104-7434ffe3-b098-4e98-9045-74a3b23cb953.jpg)
 ## Feature Detection
-![Picture2](https://user-images.githubusercontent.com/66089079/205269840-0dff8c2e-0642-4de6-959a-8fef1e6eaf3c.png)
+![Picture1](https://user-images.githubusercontent.com/66089079/205269922-bca357ec-2d2b-457f-97e4-155039aeb401.png)
